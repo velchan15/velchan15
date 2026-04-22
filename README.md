@@ -16,7 +16,7 @@
 
 I'm a passionate **Telecommunication System** student at **Universitas Pendidikan Indonesia** with a strong technical background starting from Vocational High School Graduate, Majoring in Software Engineering. I love bridging the gap between hardware and software through IoT and building functional web applications.
 
-- 🎓 Currently pursuing my degree in **Telecommunication Engineering** at UPI.
+- 🎓 Currently pursuing my degree in **Telecommunication System** at UPI.
 - 📡 Experienced **Network Operations Analyst** (Intern) at **PLN UP3 Bandung**.
 - 🔭 Exploring the intersections of **Network Infrastructure**, **IoT**, and **Full-stack Web Development**.
 - ⚡ Transforming ideas into functional code and real-time monitoring systems.
@@ -25,27 +25,13 @@ I'm a passionate **Telecommunication System** student at **Universitas Pendidika
 
 ---
 
-### 🚀 Technical Skills
+### 🚀 Technical Skills & Tools
 
-<details open>
-<summary><b>🌐 Web Development</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</details>
-
-<details open>
-<summary><b>📟 IoT & Hardware</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</details>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Development** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodes.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Engineering** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Fiber Optic](https://img.shields.io/badge/-Fiber_Optic-orange?style=flat-square) |
+| **Data & AI** | ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-blue?style=flat-square) ![Looker Studio](https://img.shields.io/badge/-Looker_Studio-4285F4?style=flat-square&logo=googlelooker&logoColor=white) ![Scratch](https://img.shields.io/badge/-Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white) |
 
 ---
 
