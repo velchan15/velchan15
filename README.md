@@ -3,12 +3,12 @@
 <h1 align="center">✨ Hi! I'm Evelyn Anastasia ✨</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=at%20Indonesian%20University%20of%20Education&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Telecommunication%20System&fontSize=50&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://github.com/velchan15">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=41D1FF&center=true&vCenter=true&width=500&lines=Telecommunication+Engineer+🔋;Full-stack+Web+Developer+💻;IoT+%26+Embedded+Systems+⚙️;Mage+Specialist+in+Land+of+Dawn+🧙‍♀️" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=41D1FF&center=true&vCenter=true&width=500&lines=Indonesian+University+of+Education;Full-stack+Web+Developer+💻;IoT+%26+Embedded+Systems+⚙️;Mage+Specialist+in+Land+of+Dawn+🧙‍♀️" />
   </a>
 </p>
 
@@ -17,10 +17,9 @@
 ### 🌙 About Me
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJsc2Nnd3ZidmIyam45ajR4OHRyeG01cmVpbmEydG9yeXJueGhzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVr9WJCgZpEeHS/giphy.gif" width="180">
 
-- 🎓 Final year student at **Universitas Pendidikan Indonesia** (UPI).
+- 🎓 Final year student at **Universitas Pendidikan Indonesia**.
 - 🏗️ Currently building **Bahterra Platform** and **PureStream IoT**.
 - 🛠️ Background in **Software Engineering (SMK RPL)**.
-- ⚡ **Fun Fact:** When I'm not debugging, I'm probably grinding rank with *Pharsa* or doing my 10-step skincare routine! ✨
 - 📍 Based in **Bandung, Indonesia**.
 
 ---
