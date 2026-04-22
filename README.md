@@ -25,13 +25,16 @@ I'm a passionate **Telecommunication System** student at **Universitas Pendidika
 
 ---
 
+---
+
 ### 🚀 Technical Skills & Tools
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Development** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodes.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| **Engineering** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Fiber Optic](https://img.shields.io/badge/-Fiber_Optic-orange?style=flat-square) |
-| **Data & AI** | ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-blue?style=flat-square) ![Looker Studio](https://img.shields.io/badge/-Looker_Studio-4285F4?style=flat-square&logo=googlelooker&logoColor=white) ![Scratch](https://img.shields.io/badge/-Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white) |
+| **Development** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) |
+| **IoT & Simulation** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Wokwi](https://img.shields.io/badge/Simulasi-Wokwi-22c55e?style=for-the-badge) ![Fritzing](https://img.shields.io/badge/Circuit-Fritzing-139094?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MathWorks-MATLAB-ED6B06?style=for-the-badge&logo=mathworks&logoColor=white) |
+| **Networking & Cloud** | ![Cisco](https://img.shields.io/badge/Packet_Tracer-Cisco-005EA2?style=for-the-badge&logo=cisco&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Fiber Optic](https://img.shields.io/badge/Fiber_Optic-Fusion_Splicer-blue?style=for-the-badge) ![SCADA](https://img.shields.io/badge/Power_Systems-SCADA-orange?style=for-the-badge) |
+| **Data & Others** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googlelooker&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
