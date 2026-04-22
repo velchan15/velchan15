@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/velchan15">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=41D1FF&center=true&vCenter=true&width=500&lines=Indonesian+University+of+Education;Full-stack+Web+Developer+💻;IoT+%26+Embedded+Systems+⚙️" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=41D1FF&center=false&vCenter=true&width=600&lines=Indonesian+University+of+Education;Network+Operations+Analyst+at+PLN+⚡;Full-stack+Web+Developer+💻;IoT+%26+Embedded+Systems+Engineer+🔌;AI+%26+Machine+Learning+Enthusiast+📊" />
   </a>
 </p>
 
@@ -50,22 +50,22 @@ I'm a passionate **Telecommunication System** student at **Universitas Pendidika
 <table>
   <tr>
     <td width="50%">
-      <b>📡 Network Operations</b><br/>
-      Mastering infrastructure & troubleshooting.
+      <b>📡 ADVANCED NETWORKING</b><br/>
+      Deepening my knowledge in <b>SCADA systems</b> and network reliability at PLN.
     </td>
     <td width="50%">
-      <b>🤖 IoT & Smart Systems</b><br/>
-      Real-time data monitoring with ESP32.
+      <b>🤖 AI & DATA ANALYTICS</b><br/>
+      Exploring <b>Machine Learning</b> and interactive <b>Looker Studio</b> dashboards.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <b>⚛️ React & Modern Frontend</b><br/>
-      Building interactive UI with React.js.
+      <b>⚛️ MODERN FULL-STACK</b><br/>
+      Mastering <b>React.js</b> and <b>Node.js</b> to build scalable web platforms.
     </td>
     <td width="50%">
-      <b>☁️ Cloud Deployment</b><br/>
-      Exploring AWS & Scalable Backends.
+      <b>📶 IoT & SMART SYSTEMS</b><br/>
+      Integrating <b>Sensory Integration</b> with ESP32 for real-time monitoring.
     </td>
   </tr>
 </table>
