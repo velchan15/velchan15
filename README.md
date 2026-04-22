@@ -13,7 +13,6 @@
 ---
 
 ### 🌙 About Me
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJsc2Nnd3ZidmIyam45ajR4OHRyeG01cmVpbmEydG9yeXJueGhzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVr9WJCgZpEeHS/giphy.gif" width="180">
 
 I'm a passionate **Telecommunication System** student at **Universitas Pendidikan Indonesia** with a strong technical background starting from Vocational High School Graduate, Majoring in Software Engineering. I love bridging the gap between hardware and software through IoT and building functional web applications.
 
