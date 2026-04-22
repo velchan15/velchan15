@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! I'm Evelyn Anastasia <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px" /></h1>
+# ✨ Hi there! I'm Evelyn Anastasia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="30px">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Telecommunication%20System&fontSize=50&animation=fadeIn" />
