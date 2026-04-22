@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/velchan15">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=41D1FF&center=true&vCenter=true&width=500&lines=Indonesian+University+of+Education;Full-stack+Web+Developer+💻;IoT+%26+Embedded+Systems+⚙️;Mage+Specialist+in+Land+of+Dawn+🧙‍♀️" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=41D1FF&center=true&vCenter=true&width=500&lines=Indonesian+University+of+Education;Full-stack+Web+Developer+💻;IoT+%26+Embedded+Systems+⚙️" />
   </a>
 </p>
 
