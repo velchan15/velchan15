@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">✨ Hi! I'm Evelyn Anastasia ✨</h1>
+<h1 align="center">✨ Hi there! I'm Evelyn Anastasia <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> ✨</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Telecommunication%20System&fontSize=50&animation=fadeIn" />
