@@ -3,7 +3,7 @@
 <h1 align="center">✨ Hi! I'm Evelyn Anastasia ✨</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Telecommunication%20System&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=at%20Indonesian%20University%20of%20Education&fontSize=50&animation=fadeIn" />
 </p>
 
 <p align="center">
