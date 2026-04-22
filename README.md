@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! I'm Evelyn Anastasia <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/main/assets/waving_hand.gif" width="40" /> </h1>
+<h1 align="center">✨ Hello There! I'm Evelyn Anastasia <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40" /> ✨</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Telecommunication%20System&fontSize=50&animation=fadeIn" />
