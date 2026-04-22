@@ -79,6 +79,11 @@ I'm a passionate **Telecommunication System** student at **Universitas Pendidika
   <a href="mailto:evvanstsia18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
+
 <p align="center">
-  <i>"Transforming coffee into code and signals."</i>
+  <br/>
+  <b>"Engineering the future, one packet at a time."</b><br/>
+  <i>Bridging the physical world and the digital cloud with logic and signals.</i>
+  <br/><br/>
 </p>
