@@ -1,13 +1,5 @@
 # Hi there! I'm Evelyn Anastasia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="30px">
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Hi%20there!%20I'm%20Evelyn%20Anastasia%20👋&fontSize=35&animation=fadeIn&align=left" />
-</p>
 
-<p align="left">
-  <a href="https://github.com/velchan15">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=41D1FF&center=false&vCenter=true&width=500&lines=Indonesian+University+of+Education;Full-stack+Web+Developer+💻;IoT+%26+Embedded+Systems+⚙️;Mage+Specialist+in+Land+of+Dawn+🧙‍♀️" />
-  </a>
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Telecommunication%20System&fontSize=50&animation=fadeIn" />
 </p>
