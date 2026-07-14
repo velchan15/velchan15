@@ -42,7 +42,7 @@ I'm a passionate **Telecommunication System** student at **Universitas Pendidika
 ### 🎯 What I'm Learning
 <table>
   <tr>
-    <td width="50%">
+      <td width="50%">
         <b>🚀 PRODUCTION AI & LLM</b><br/>
         Building agentic systems and <b>RAG pipelines</b> to scale organic growth.
       </td>
@@ -50,6 +50,8 @@ I'm a passionate **Telecommunication System** student at **Universitas Pendidika
         <b>🤖 MLOps & AUTOMATION</b><br/>
         Learning to deploy and monitor <b>Machine Learning models</b> in production.
       </td>
+    </tr>
+  <tr>
     <td width="50%">
       <b>📡 ADVANCED NETWORKING</b><br/>
       Deepening my knowledge in <b>SCADA systems</b> and network reliability at PLN.
