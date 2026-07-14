@@ -17,6 +17,7 @@
 I'm a passionate **Telecommunication System** student at **Universitas Pendidikan Indonesia** with a strong technical background starting from Vocational High School Graduate, Majoring in Software Engineering. I love bridging the gap between hardware and software through IoT and building functional web applications.
 
 - 🎓 Currently pursuing my degree in **Telecommunication System** at UPI.
+- 🤖 **Machine Learning Engineer** (Intern) at **FlyRank AI Chicago, Illinois, USA**.
 - 📡 Experienced **Network Operations Analyst** (Intern) at **PLN UP3 Bandung**.
 - 🔭 Exploring the intersections of **Network Infrastructure**, **IoT**, and **Full-stack Web Development**.
 - ⚡ Transforming ideas into functional code and real-time monitoring systems.
@@ -41,6 +42,14 @@ I'm a passionate **Telecommunication System** student at **Universitas Pendidika
 ### 🎯 What I'm Learning
 <table>
   <tr>
+    <td width="50%">
+        <b>🚀 PRODUCTION AI & LLM</b><br/>
+        Building agentic systems and <b>RAG pipelines</b> to scale organic growth.
+      </td>
+      <td width="50%">
+        <b>🤖 MLOps & AUTOMATION</b><br/>
+        Learning to deploy and monitor <b>Machine Learning models</b> in production.
+      </td>
     <td width="50%">
       <b>📡 ADVANCED NETWORKING</b><br/>
       Deepening my knowledge in <b>SCADA systems</b> and network reliability at PLN.
