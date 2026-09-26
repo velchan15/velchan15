@@ -14,7 +14,7 @@
 
 ### 🌙 About Me
 
-I'm a **Telecommunication Systems** student at **Universitas Pendidikan Indonesia**, passionate about bridging hardware and software through IoT and web development.
+I'm a **Telecommunication Systems** student at **Indonesia University of Education**, passionate about bridging hardware and software through IoT and web development.
 
 - 🎓 Currently pursuing my degree in Telecommunication Systems at UPI
 - 🤖 Machine Learning Engineer Intern at **FlyRank AI** (Chicago, USA) — remote
