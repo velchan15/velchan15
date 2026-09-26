@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=""/>
+<img src="https://github.com/velchan15/velchan15/blob/main/banner.jpg"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Telecommunication+Systems+Student;ML+Engineer+Intern+%40+FlyRank+AI+%28Completed%29;Software+Engineer+Intern+%40+Diskominfo+Jawa+Barat;IoT+%2B+Web+Developer;Bridging+Hardware+%26+Software)](https://git.io/typing-svg)
 
